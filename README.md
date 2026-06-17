@@ -48,3 +48,8 @@ MySQL Database
 ```bash
 cd ems-backend
 mvn spring-boot:run
+
+###Frontend
+cd ems-frontend
+npm install
+npm run dev
